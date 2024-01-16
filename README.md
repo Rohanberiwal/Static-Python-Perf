@@ -55,6 +55,24 @@ This repository contains Python code for benchmarking Strassen's Matrix Multipli
     - Displays the combined data table containing matrix size, run number, and individual runtime for each run.
     - Also prints average runtimes for each matrix size.
 
+## Observations
+
+**Observation 1: Algorithm Efficiency**
+
+Upon analyzing the benchmark results, we observe that Strassen's Matrix Multiplication algorithm demonstrates efficient performance for smaller matrix sizes. As the matrix size increases, the algorithm maintains a reasonable runtime, showcasing its scalability.
+
+**Observation 2: Logarithmic Trend in Runtimes**
+
+The runtime vs. matrix size graph indicates a logarithmic trend, particularly visible when using a logarithmic scale on the y-axis. This suggests that the algorithm's complexity scales better than traditional matrix multiplication methods for larger matrices.
+
+## Benchmarking Results
+
+Result 1 : Repetation cycle = 10 , Maximum size of Matrix = 128*128 , Output Graph attached below : 
+![10repetartion@timeit_Graph](https://github.com/Rohanberiwal/Static-Python-Perf/assets/119040957/be2cc091-c877-4efd-b6f0-5fb37fe33c7b)
+
+
+
+
 ## Usage
 
 To run the benchmark, modify the `matrix_sizes` list and adjust the benchmarking parameters as needed. Execute the script and observe the printed results and the generated combined data table.
