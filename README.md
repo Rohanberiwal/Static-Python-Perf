@@ -1,4 +1,4 @@
-#Static Python Perf Measuring the Cost of Sound Gradual Types
+###Static Python Perf Measuring the Cost of Sound Gradual Types
 # Strassen's Matrix Multiplication Benchmarking
 
 This repository contains Python code for benchmarking Strassen's Matrix Multiplication algorithm across different matrix sizes. The code uses Pandas for data organization and Matplotlib for visualization.
