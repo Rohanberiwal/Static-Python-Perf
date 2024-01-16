@@ -71,7 +71,19 @@ Result 1 : Repetation cycle = 10 , Maximum size of Matrix = 128*128 , Output Gra
 ![10repetartion@timeit_Graph](https://github.com/Rohanberiwal/Static-Python-Perf/assets/119040957/be2cc091-c877-4efd-b6f0-5fb37fe33c7b)
 
 
+Result 2 : Repetation Cycle = 1  , Maximun size of Matrix = 128*128 , Ouptut Grpah attached below 
 
+![Strassen_Bencmark_Output _@time](https://github.com/Rohanberiwal/Static-Python-Perf/assets/119040957/1b0f4428-c690-4827-a01a-8eb4e86b44af)
+
+Result 3 :  Repetation Cycle = 10 , Maximum Size of Matrix  = 256*256 
+
+No output 
+Reason : High Computation power needed for 256*256 matrix multiplication .
+
+
+Result 4 :  Repetation Cycle = 1 , Maximum Size of Matrix  = 256*256 
+No output 
+Reason : High Computation power needed for 256*256 matrix multiplication .
 
 ## Usage
 
